@@ -1,0 +1,22 @@
+{
+  "name": "hubot-pha-adapter",
+  "version": "1.2.0",
+  "description": "A hubot adapter for Phabricator",
+  "main": "src/pha.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miCookie",
+  "license": "ISC",
+  "dependencies": {
+    "array-compare": "^2.0.0",
+    "bluebird": "^3.5.1",
+    "canduit": "^1.3.1",
+    "ws": "^3.3.2"
+  },
+  "peerDependencies": {
+    "hubot": "2.x",
+    "coffee-script": "^1.6.3"
+  },
+  "devDependencies": {}
+}
