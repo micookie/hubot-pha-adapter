@@ -11,7 +11,7 @@ class phaBot extends Adapter
     api: null,
     token: null,
     ws_url: null,
-    welcome_msg: "Welcome to your come, and I have waited for you for a long time",
+    welcome_msg: "Welcome back!"
   }
 
   data: {}
